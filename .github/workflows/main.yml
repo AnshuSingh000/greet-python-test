@@ -25,5 +25,5 @@ jobs:
         python -m pip install --upgrade pip
 
     - name: Run Unit Tests
-      run: |
-        python -m hello.py
+      run: 
+        python  hello.py
